@@ -12,7 +12,7 @@ assets/lazysizes.js:
 assets/match-media.min.js:
   development: 2018-01-16T10:15:41+08:00   d0bf06c458a236dcca39b3be8cf80ec5
 assets/othan.scss.liquid:
-  development: 2018-01-18T17:22:14+08:00   2027641964d531aa7ed82f8ebe1abaea
+  development: 2018-02-01T16:11:58+08:00   d2db7305b5cb60cbfbcc9b3fd27ee684
 assets/password.js:
   development: 2018-01-16T10:15:41+08:00   d826da9cb223a44d53a0c34f457e92dc
 assets/theme.js:
@@ -22,7 +22,7 @@ assets/theme.scss.liquid:
 assets/vendor.js:
   development: 2018-01-16T10:15:42+08:00   cb7c4217c9b6feb844647b361accfe6c
 config/settings_data.json:
-  development: 2018-01-18T17:11:03+08:00   6b09d233da364e8584f44cde23b3f469
+  development: 2018-02-01T14:22:12+08:00   599afd2d180e157f31a80d26df07dfea
 config/settings_schema.json:
   development: 2018-01-16T10:15:45+08:00   ae0f922c59d79f7c5d2c957de7231f47
 layout/gift_card.liquid:
@@ -30,7 +30,7 @@ layout/gift_card.liquid:
 layout/password.liquid:
   development: 2018-01-16T10:15:42+08:00   6351674ea67c53e01643a5bea02f7d0a
 layout/theme.liquid:
-  development: 2018-01-17T11:34:37+08:00   5f62e2b981b0fd42503afd7f9db3cef4
+  development: 2018-01-31T11:45:09+08:00   3f58d80668a6f84c9f069dc8f1c85b7d
 locales/de.json:
   development: 2018-01-16T10:15:42+08:00   b7cd7749b0a0d9df967227ee73bcbb7f
 locales/en.default.json:
@@ -120,7 +120,7 @@ snippets/icon-arrow-right.liquid:
 snippets/icon-bitcoin.liquid:
   development: 2018-01-16T10:15:43+08:00   d8cb31e0401818c1cb852348b6f27420
 snippets/icon-cart.liquid:
-  development: 2018-01-16T10:15:43+08:00   c9de61c7db365e0090f7ca5423b633e6
+  development: 2018-02-01T10:03:34+08:00   c9de61c7db365e0090f7ca5423b633e6
 snippets/icon-chevron-down.liquid:
   development: 2018-01-16T10:15:43+08:00   7d3a8cd08370aa9d2a88ae542446a181
 snippets/icon-chevron-left.liquid:

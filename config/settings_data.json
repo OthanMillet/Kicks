@@ -64,32 +64,31 @@
       },
       "slideshow": {
         "type": "slideshow",
-        "disabled": true,
         "blocks": {
           "slideshow-1": {
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/sh1.png",
-              "alignment": "top",
+              "alignment": "center",
               "title": "UNDER ARMOUR",
               "subheading": "Smart Sneaker",
               "link": ""
             }
           },
-          "slideshow-0": {
+          "1517383144532": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nikex.png",
+              "image": "shopify:\/\/shop_images\/sh.png",
               "alignment": "center",
               "title": "NIKE",
-              "subheading": "",
+              "subheading": "Grey Shoes",
               "link": ""
             }
           }
         },
         "block_order": [
           "slideshow-1",
-          "slideshow-0"
+          "1517383144532"
         ],
         "settings": {
           "autoplay": true,
@@ -134,6 +133,7 @@
       },
       "1516156047250": {
         "type": "logo-bar",
+        "disabled": true,
         "blocks": {
           "1516156047250-0": {
             "type": "logo_image",
@@ -344,6 +344,25 @@
         "settings": {
           "title": ""
         }
+      },
+      "1517380620059": {
+        "type": "custom-content",
+        "blocks": {
+          "1517380620059-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/rucker.png",
+              "width": "100%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1517380620059-1"
+        ],
+        "settings": {
+          "title": ""
+        }
       }
     },
     "content_for_index": [
@@ -353,6 +372,7 @@
       "1516263372545",
       "1516156047250",
       "1516161687571",
+      "1517380620059",
       "1516165373054"
     ]
   },
