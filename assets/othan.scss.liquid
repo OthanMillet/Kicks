@@ -146,12 +146,21 @@ p{
     text-align: left;
 }
 .slick-prev, .slick-next {
-    top: 50% !important;
+    top: 45% !important;
     font-size: 0;
     position: absolute;
     bottom: 40px;
-    color: rgb(255, 90, 0);
+    color: #000000;
     border: 0;
     background: none;
     z-index: 1;
+    width: 30px !important;
+    height: 0% !important;
 }
+.slick-next:before {
+    content: "\2862" !important;
+}
+.slick-prev:before {
+    content: "\2894" !important;
+}
+
