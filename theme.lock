@@ -12,13 +12,13 @@ assets/lazysizes.js:
 assets/match-media.min.js:
   development: 2018-01-16T10:15:41+08:00   d0bf06c458a236dcca39b3be8cf80ec5
 assets/othan.scss.liquid:
-  development: 2018-02-01T16:11:58+08:00   d2db7305b5cb60cbfbcc9b3fd27ee684
+  development: 2018-02-02T13:44:29+08:00   301c6d9125541e32bbf849c2444884ee
 assets/password.js:
   development: 2018-01-16T10:15:41+08:00   d826da9cb223a44d53a0c34f457e92dc
 assets/theme.js:
-  development: 2018-01-16T10:15:41+08:00   b50b8c8a74107fa49eed6bf5b802166d
+  development: 2018-02-02T13:53:01+08:00   b1e081b55f2b203783feaca536d45078
 assets/theme.scss.liquid:
-  development: 2018-01-17T13:36:08+08:00   6fd65edb369fa4edaa8738c5859c25d9
+  development: 2018-02-02T13:37:37+08:00   502d4ce9536b0d15e8d899ae7520212d
 assets/vendor.js:
   development: 2018-01-16T10:15:42+08:00   cb7c4217c9b6feb844647b361accfe6c
 config/settings_data.json:
@@ -98,7 +98,7 @@ sections/quotes.liquid:
 sections/rich-text.liquid:
   development: 2018-01-16T10:15:40+08:00   d25fb0e1575242ba565b129eff3dd1b8
 sections/slideshow.liquid:
-  development: 2018-01-16T10:15:40+08:00   b45e3880ca33f6ac6de7c2b5eb9dd40b
+  development: 2018-02-02T13:41:40+08:00   b45e3880ca33f6ac6de7c2b5eb9dd40b
 snippets/bgset.liquid:
   development: 2018-01-16T10:15:42+08:00   85889bbc39b57621f32fad66317366fc
 snippets/collection-grid-item.liquid:

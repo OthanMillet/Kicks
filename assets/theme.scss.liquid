@@ -567,7 +567,7 @@ $slick-opacity-not-active: 0.25;
   }
 }
 .slick-arrow.slick-hidden {
-  display: none;
+/*   display: none; */
 }
 
 /*================ Slick Slider Theme ================*/
@@ -619,7 +619,7 @@ $slick-opacity-not-active: 0.25;
   }
   &:before {
     font-family: $slick-font-family;
-    font-size: 20px;
+    font-size: 50px;
     line-height: 1;
     color: $slick-arrow-color;
     opacity: $slick-opacity-default;
@@ -4642,7 +4642,7 @@ $color-slideshow-close-text: #000;
   position: absolute;
   width: 100%;
   top: 50%;
-  @include transform(translateY(-40%));
+  @include transform(translateX(-5%));
   opacity: 0;
   transition: $transition-text-slideshow;
   transition-delay: 0.3s;
@@ -4650,7 +4650,7 @@ $color-slideshow-close-text: #000;
 
   .slick-active &,
   .no-js & {
-    @include transform(translateY(-50%));
+    @include transform(translateX(0%));
     opacity: 1;
   }
 
